@@ -1,0 +1,8 @@
+[package]
+name = "scahrlet/profilestore"
+description = "A powerful data storage module for ROBLOX"
+version = "1.0.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+
+[dependencies]
